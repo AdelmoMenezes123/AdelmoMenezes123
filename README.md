@@ -6,9 +6,9 @@
 ### About me
 I'm a {backend and frontend} .
 
-I'm interning at the company ```i9 Software``` - Full Stack Developer
+I'm interning at the company i9 Software - Full Stack Developer
 I've worked as a front-end in a startup called Quickup
-Study ``` Information system ``` at unifacs - salvador, ba.
+Study Information system at unifacs - salvador, ba.
 
 ### ♚ Habilidades ♚
  ♞. HTML5 ♞. CSS3 ♞. BOOTSTRAP ♞.  NodeJs ♞. GIT / GITHUB ♞. JAVASCRIP ♞. MongoDB / Mysql ♞.
