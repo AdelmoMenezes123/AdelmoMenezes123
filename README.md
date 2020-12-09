@@ -20,3 +20,4 @@ Study Information system at unifacs - salvador, ba.
 
 - [portfolio](https://adelmo.vercel.app/) 💻 - Working on it.
 
+<img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
