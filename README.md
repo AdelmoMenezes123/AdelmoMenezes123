@@ -1,7 +1,7 @@
 <img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<!-- <p align="left">  -->
- # Hi, I'm Adelmo Meneezes! :D
-
+ #Hi, I'm Adelmo Meneezes! :D
+ 
+ <p align="left">
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AdelmoMenezes123)](https://github.com/AdelmoMenezes123)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adelmomenezes/)](https://www.linkedin.com/in/AdelmoMenezes/)
   <a href="mailto:adelmo.menezes2010@gmail.com" alt="Gmail">
