@@ -1,10 +1,12 @@
  <img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> 
- 
- <p align="left">
-#Hi, I'm Adelmo Meneezes! :D
+ <br>
 
+# Hi, I'm Adelmo Meneezes! :D
+
+<br>
+ <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/adelmomenezes" style="background-color:#0a66c2;">
-  <img align="left" color="red" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5571983449654">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
@@ -20,7 +22,10 @@
 </a>
 </p>
 
+<br>
+
 ### About me
+
 I'm a {backend and frontend} .
 
 I'm interning at the company i9 Software - Full Stack Developer
