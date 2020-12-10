@@ -20,7 +20,7 @@
   <img align="left" alt="instagram"  src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
 </a>
 <a target="_blank" href="https://adelmo.vercel.app">
-  <img align="left" alt="site"  src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
+  <img align="left" alt="site"  src="https://img.shields.io/badge/-portifolio-FAFAFA?style=flat-square" />
 </a>
 
 </p>
@@ -54,7 +54,7 @@ Study Information system at unifacs - salvador, ba.
 
 
 
-- [portfolio](https://adelmo.vercel.app/) 💻 - Working on it.
+
 
 
 
