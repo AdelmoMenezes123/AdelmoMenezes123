@@ -8,19 +8,19 @@
 <br>
  <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/adelmomenezes" style="color:#0a66c2;">
-  <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-mendes-00661318b/" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5571983449654">
-  <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/whatsapp-%34af23.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Gustavo,%20tudo%20bem?" />
 </a>
 <a target="_blank" href="https://www.instagram.com/adelmo_menezes1/">
   <img align="left" alt="instagram"  src="https://img.shields.io/badge/instagram-%8a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a target="_blank" href="https://adelmo.vercel.app">
-  <img align="left" alt="site"  src="https://img.shields.io/badge/dev-%8a3ab9.svg?&style=for-the-badge&logo=dev&logoColor=white" />
+  <img align="left" alt="site"  src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mendes.gu/" />
 </a>
 <a target="_blank" href="mailto:adelmo.menezes2010@gmail.com">
-  <img align="left" alt="email"  src="https://img.shields.io/badge/email-%red.svg?&style=for-the-badge&logo=email&logoColor=white" />
+  <img align="left" alt="email"  src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=srto.mendes@gmail.com" />
 </a>
 </p>
 
@@ -33,10 +33,6 @@ I'm a {backend and frontend} .
 I'm interning at the company i9 Software - Full Stack Developer
 I've worked as a front-end in a startup called Quickup
 Study Information system at unifacs - salvador, ba.
-
-<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-
-<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmomenezes123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADELMO MENEZES Github Stats">
