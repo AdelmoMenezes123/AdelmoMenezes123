@@ -1,5 +1,6 @@
 <img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+ ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
  
  <p align="left">
 #Hi, I'm Adelmo Meneezes! :D
