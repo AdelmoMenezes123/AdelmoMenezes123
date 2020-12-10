@@ -1,15 +1,26 @@
-<img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!-- <img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
 
- ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+ ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=adelmomenezes123&show_icons=true)
  
  <p align="left">
 #Hi, I'm Adelmo Meneezes! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AdelmoMenezes123)](https://github.com/AdelmoMenezes123)
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adelmomenezes/)](https://www.linkedin.com/in/AdelmoMenezes/)
-  <a href="mailto:adelmo.menezes2010@gmail.com" alt="Gmail">
-   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=adelmo.menezes2010@gmail.com" /></a>
-</p>
+<a target="_blank" href="https://www.linkedin.com/in/adelmomenezes">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5571983449654">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/adelmo_menezes1/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="https://adelmo.vercel.app">
+  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
+<a target="_blank" href="mailto:adelmo.menezes2010@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 
 ### About me
 I'm a {backend and frontend} .
