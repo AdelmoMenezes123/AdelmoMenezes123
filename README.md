@@ -5,7 +5,7 @@
  <p align="left">
 #Hi, I'm Adelmo Meneezes! :D
 
-<a target="_blank" href="https://www.linkedin.com/in/adelmomenezes">
+<a target="_blank" href="https://www.linkedin.com/in/adelmomenezes" style="color:#0a66c2;">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5571983449654">
@@ -20,7 +20,7 @@
 <a target="_blank" href="mailto:adelmo.menezes2010@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+</p>
 
 ### About me
 I'm a {backend and frontend} .
