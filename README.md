@@ -10,14 +10,14 @@
 <a target="_blank" href="https://www.linkedin.com/in/adelmomenezes" style="color:#0a66c2;">
   <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-mendes-00661318b/" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5571983449654">
-  <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Gustavo,%20tudo%20bem?" />
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5571983449654text=Olá%20Adelmo,%20tudo%20bem?">
+  <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&l" />
 </a>
 <a target="_blank" href="https://www.instagram.com/adelmo_menezes1/">
-  <img align="left" alt="instagram"  src="https://img.shields.io/badge/instagram-%8a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="instagram"  src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
 </a>
 <a target="_blank" href="https://adelmo.vercel.app">
-  <img align="left" alt="site"  src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mendes.gu/" />
+  <img align="left" alt="site"  src="" />
 </a>
 <a target="_blank" href="mailto:adelmo.menezes2010@gmail.com">
   <img align="left" alt="email"  src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=srto.mendes@gmail.com" />
