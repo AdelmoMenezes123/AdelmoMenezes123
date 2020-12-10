@@ -20,7 +20,7 @@
   <img align="left" alt="instagram"  src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
 </a>
 <a target="_blank" href="https://adelmo.vercel.app">
-  <img align="left" alt="site"  src="https://img.shields.io/badge/-portifolio-FAFAFA?style=flat-square" />
+  <img align="left" alt="site"  src="https://img.shields.io/badge/-portifolio-purple?style=flat-square" />
 </a>
 
 </p>
@@ -51,16 +51,4 @@ Study Information system at unifacs - salvador, ba.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-
-
-
-
-
-
-
-
-
 
