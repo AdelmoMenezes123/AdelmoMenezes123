@@ -1,8 +1,5 @@
  <img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> 
-
-  
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmomenezes123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADELMO MENEZES Github Stats">
-
+ 
  <p align="left">
 #Hi, I'm Adelmo Meneezes! :D
 
@@ -29,6 +26,10 @@ I'm a {backend and frontend} .
 I'm interning at the company i9 Software - Full Stack Developer
 I've worked as a front-end in a startup called Quickup
 Study Information system at unifacs - salvador, ba.
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmomenezes123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADELMO MENEZES Github Stats">
 
 
 
