@@ -1,7 +1,7 @@
 <!-- <img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
 
   
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmomenezes123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmomenezes123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADELMO MENEZES Github Stats">
 
 </br>
 
@@ -9,7 +9,7 @@
  <p align="left">
 #Hi, I'm Adelmo Meneezes! :D
 
-<a target="_blank" href="https://www.linkedin.com/in/adelmomenezes" style="color:#0a66c2;">
+<a target="_blank" href="https://www.linkedin.com/in/adelmomenezes" style="background-color:#0a66c2;">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5571983449654">
