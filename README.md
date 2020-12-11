@@ -53,7 +53,7 @@ Study Information system at unifacs - salvador, ba.
 
 ### ♚ Portifolio ♚
 
-<a target="_blank" href="https://adelmo.vercel.app">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/125/125515.svg" width="30" height="30" alt="portfólio Adelmo" title="portfólio Adelmo">
- working on it !!!
+<a target="_blank" href="https://adelmo.vercel.app" style="background-color:#0a66c2;">
+  <img src="https://www.flaticon.com/svg/static/icons/svg/125/125515.svg" width="30" height="30" alt="portfólio Adelmo" title="portfólio Adelmo"> 
 </a>
+working on it !!!
