@@ -26,7 +26,7 @@
 
 ### ♚ About me ♚
 
-I'm a {backend and frontend} .
+I'm a developer {frontend / fullstack} .
 
 I'm interning at the company i9 Software - Full Stack Developer
 I've worked as a front-end in a startup called Quickup
