@@ -26,7 +26,7 @@
 I'm a developer {frontend / fullstack} .
 
 I'm interning at the company i9 Software - Full Stack Developer
-I've worked as a front-end in a startup called Quickup
+I've worked as a front-end in a startup called Quickup,
 Study Information system at unifacs - salvador, ba.
 
 
