@@ -1,4 +1,4 @@
- <img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> 
+ <img src="/people_and_pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> 
 
 # Hi, I'm Adelmo Meneezes! :D
 
