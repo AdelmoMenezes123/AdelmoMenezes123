@@ -1,3 +1,5 @@
+<img min-width="350px" max-width="350px" width="400px" align="right"  src="https://github-readme-stats.vercel.app/api?username=adelmomenezes123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADELMO MENEZES Github Stats">
+
 # Hi, I'm Adelmo Meneezes! :D
  <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/adelmomenezes" style="color:#0a66c2;">
@@ -40,8 +42,13 @@ Study Information system at unifacs - salvador, ba.
 <br>
  
 
-<img src="/people_and_pc.png" min-width="400px" max-width="400px" width="400px" align="left"  alt="Computador Adelmo menezes"> 
-
-<img min-width="350px" max-width="350px" width="400px" align="right"  src="https://github-readme-stats.vercel.app/api?username=adelmomenezes123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADELMO MENEZES Github Stats">
+<img src="/people_and_pc.png" min-width="400px" max-width="400px" width="400px" align="right"  alt="Computador Adelmo menezes"> 
 
 
+### ♚ Portifolio ♚
+ 
+<a target="_blank" href="https://portfolio-adelmo.vercel.app">
+   <img src="https://www.flaticon.com/svg/static/icons/svg/1395/1395817.svg" width="50" height="50" alt="portfólio Adelmo" title="portfólio Adelmo"> 
+</a>
+  
+  - working on it !!!
