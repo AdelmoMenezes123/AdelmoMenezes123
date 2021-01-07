@@ -1,7 +1,7 @@
 <img src="/people_and_pc.png" min-width="400px" max-width="400px" width="400px" align="right"  alt="Computador Adelmo menezes"> 
 
 
-# Hi, I'm Adelmo Meneezes! :D
+# Hi, I'm Adelmo Menezes! :D
 <p align="left">
  <a target="_blank" href="https://www.linkedin.com/in/adelmomenezes" style="color:#0a66c2;">
    <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
