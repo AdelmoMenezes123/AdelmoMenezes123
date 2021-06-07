@@ -12,9 +12,12 @@
 
 ### ♚ Sobre min ♚
 
-Sou um desenvolvedor {frontend / fullstack}.
+Sou um desenvolvedor - frontend / fullstack.
 
-Estou estagiando na empresa i9 Software - Full Stack Developer Já trabalhei como front-end em uma startup chamada Quickup, Study Information system na unifacs - salvador, ba.
+Estou estagiando na empresa i9 Software -
+Full Stack Developer Já trabalhei como
+front-end em uma startup chamada Quickup,
+estudo Sistema de Informação na unifacs - salvador, ba.
 
 <img min-width="350px" max-width="350px" width="400px"   src="https://github-readme-stats.vercel.app/api?username=adelmomenezes123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADELMO MENEZES Github Stats">
 
