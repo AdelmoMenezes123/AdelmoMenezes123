@@ -1,4 +1,4 @@
-# Olái, sou Adelmo Menezes! :D
+# Olá, sou Adelmo Menezes! :D
 <p align="left">
  <a target="_blank" href="https://www.linkedin.com/in/adelmomenezes" style="color:#0a66c2;">
    <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
