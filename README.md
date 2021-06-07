@@ -1,7 +1,4 @@
-<img src="/people_and_pc.png" min-width="400px" max-width="400px" width="400px" align="right"  alt="Computador Adelmo menezes"> 
-
-
-# Hi, I'm Adelmo Menezes! :D
+# Olái, sou Adelmo Menezes! :D
 <p align="left">
  <a target="_blank" href="https://www.linkedin.com/in/adelmomenezes" style="color:#0a66c2;">
    <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
@@ -13,14 +10,11 @@
 
 <br>
 
-### ♚ About me ♚
+### ♚ Sobre min ♚
 
-I'm a developer {frontend / fullstack} .
+Sou um desenvolvedor {frontend / fullstack}.
 
-I'm interning at the company i9 Software - Full Stack Developer
-I've worked as a front-end in a startup called Quickup,
-Study Information system at unifacs - salvador, ba.
-
+Estou estagiando na empresa i9 Software - Full Stack Developer Já trabalhei como front-end em uma startup chamada Quickup, Study Information system na unifacs - salvador, ba.
 
 <img min-width="350px" max-width="350px" width="400px"   src="https://github-readme-stats.vercel.app/api?username=adelmomenezes123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADELMO MENEZES Github Stats">
 
@@ -44,5 +38,3 @@ Study Information system at unifacs - salvador, ba.
 <a target="_blank" href="https://adelmo.vercel.app">
    <img src="https://www.flaticon.com/svg/static/icons/svg/1395/1395817.svg" width="50" height="50" alt="portfólio Adelmo" title="portfólio Adelmo"> 
 </a>
-  
-  - working on it !!!
